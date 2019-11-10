@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">न्युज पोर्टल एप</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">्युज पोर्टल एप</string>
+    <string name="nav_header_subtitle">Projectsaathi Team</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">गृह</string>
+    <string name="menu_national">राष्ट्रिय</string>
+    <string name="menu_agriculture">कृषि</string>
+    <string name="menu_tourism">पर्यटन</string>
+    <string name="menu_finance">अर्थ वाणिज्य</string>
+    <string name="menu_international">अन्तराष्ट्रिय</string>
+</resources>
